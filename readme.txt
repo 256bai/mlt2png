@@ -34,7 +34,7 @@ Win10home Powershell v5 にて作動確認
 　TXTファイルなどでも画像化できます。
 　template.htmに差し込む時に< > が &lt; &gt; に変換されます。
 
-★ tmp_aaファイル
+★tmp_aaファイル
 　実行後に作成される一時ファイル。
 　削除して問題ありません。
 　HTMLファイルはSJISで出力される予定ですが違う場合は、METAタグをSJISから修正してください。
